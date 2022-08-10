@@ -1,0 +1,22 @@
+.margin{
+    padding-top: 20px;
+    padding-bottom: 1px;
+    padding-right: 15px;
+}
+
+.navbar{
+    background-color: limegreen;
+}
+
+.container-fluid{
+    background-color: cornflowerblue;
+    color:white
+}
+
+.bg-footer{
+    background-color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color:white;
+}
+
